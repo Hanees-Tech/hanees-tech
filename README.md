@@ -13,9 +13,10 @@ Our mission is to:
 ---
 
 ## Our Services
+
 | Service                    | Description                                                                 | Features                                                        |
 | -------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------- |
-| **Software as a Service**   | Scalable cloud-based solutions that automate workflows and improve efficiency| CRM, analytics, inventory management, and more                |
+| **Software as a Service**  | Scalable cloud-based solutions that automate workflows and improve efficiency | CRM, analytics, inventory management, and more                |
 | **Custom Software**         | Tailored solutions for businesses of all sizes                              | Web, mobile, and desktop applications                          |
 | **Digital Marketing**       | Data-driven marketing strategies to boost online presence                   | SEO, SEM, social media, content creation                       |
 | **Website Development**     | Modern, responsive, and performance-driven websites                         | E-commerce, CMS platforms, custom web development              |
