@@ -1,5 +1,4 @@
-# Hanees Tech
-# [![Company Logo](https://dummyimage.com/300x80/000/fff&text=Your+Company)](https://www.yourcompany.com)
+# [![Company Logo](https://dummyimage.com/1000x120/5652ab/fff&text=HANEES-TECH)](https://www.yourcompany.com)
 
 ## Vision
 To empower businesses with cutting-edge digital solutions that drive innovation, enhance user experience, and foster sustainable growth.
@@ -78,7 +77,7 @@ Our mission is to:
 ## Get Started
 Ready to take your business to the next level? 
 
-📧 **Contact Us**: [email@example.com]  
-🌐 **Website**: [www.yourcompany.com]
+📧 **Contact Us**: [contact.haneestech@gmail.com]  
+🌐 **Website**: [https://hanees-tech.github.io/hanees-tech]
 
 ![Innovate with Us](https://media.giphy.com/media/26n6xBpxNXExDfuK4/giphy.gif)
