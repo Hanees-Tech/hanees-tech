@@ -1,4 +1,4 @@
-# [![Company Logo](https://dummyimage.com/1000x120/5652ab/fff&text=HANEES-TECH)](https://www.yourcompany.com)
+# [![Company Logo](https://dummyimage.com/1000x120/5652ab/fff&text=HANEES-TECH)](https://hanees-tech.github.io/hanees-tech)
 
 ## Vision
 To empower businesses with cutting-edge digital solutions that drive innovation, enhance user experience, and foster sustainable growth.
@@ -13,12 +13,12 @@ Our mission is to:
 ---
 
 ## Our Services
-| Service                    | Description                                                                 | Features                                                         |
-| -------------------------- | --------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **Software as a Service**   | Scalable cloud-based solutions that automate workflows and improve efficiency| CRM, analytics, inventory management, and more                    |
-| **Custom Software**         | Tailored solutions for businesses of all sizes                              | Web, mobile, and desktop applications                             |
-| **Digital Marketing**       | Data-driven marketing strategies to boost online presence                   | SEO, SEM, social media, content creation                          |
-| **Website Development**     | Modern, responsive, and performance-driven websites                         | E-commerce, CMS platforms, custom web development                 |
+| Service                    | Description                                                                 | Features                                                        |
+| -------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------- |
+| **Software as a Service**   | Scalable cloud-based solutions that automate workflows and improve efficiency| CRM, analytics, inventory management, and more                |
+| **Custom Software**         | Tailored solutions for businesses of all sizes                              | Web, mobile, and desktop applications                          |
+| **Digital Marketing**       | Data-driven marketing strategies to boost online presence                   | SEO, SEM, social media, content creation                       |
+| **Website Development**     | Modern, responsive, and performance-driven websites                         | E-commerce, CMS platforms, custom web development              |
 
 ---
 
